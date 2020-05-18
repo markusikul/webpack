@@ -1,0 +1,11 @@
+npm install -D webpack webpack-cli
+npm i -D html-webpack-plugin
+npm i -D clean-webpack-plugin
+npm install sass-loader sass style-loader
+
+компиляция
+npm run build   -  минификация файлов
+npm run dev
+npm run watch
+npm run start  -  webpack-dev-server
+
